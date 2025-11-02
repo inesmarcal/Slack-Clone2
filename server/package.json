@@ -45,7 +45,7 @@
     "randomhex": "^0.1.5",
     "randomstring": "^1.1.5",
     "redis": "^2.8.0",
-    "sequelize": "^4.38.0",
+    "sequelize": "^6.6.5",
     "socket.io": "^2.1.1",
     "superagent": "^4.0.0",
     "uuid": "^3.3.2",
